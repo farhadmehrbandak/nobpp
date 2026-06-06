@@ -1,4 +1,4 @@
-# Project Name
+# No build C++
 
 simple c++ build system inspired by nob (Alexey tsoding)
 
